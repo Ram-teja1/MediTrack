@@ -14,7 +14,7 @@ public abstract class Person {
         this.age = age;
     }
 
-    // Getter and Setters for fields
+    
     public String getId() {
         return id;
     }
